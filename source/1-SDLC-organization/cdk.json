@@ -6,7 +6,7 @@
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "main",
     "email": "dinhchung82@gmail.com",
-    "domain_name": "<YOUR DOMAIN NAME>",
+    "domain_name": "vdc.lfvn",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
       "us-east-1",
